@@ -41,7 +41,7 @@
 
 <password>${anypoint.password}</password>
 
-<applicationName>mule-app-cicd-github</applicationName>
+<applicationName>cloudhubdeployment</applicationName>
 
 <environment>Sandbox</environment>
 
