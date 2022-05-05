@@ -5,9 +5,9 @@ name: Build and Deploy to Sandbox
 on:
    push:
     branches: [ MuleDemo ]
-  pull_request:
+   pull_request:
     branches: [ MuleDemo ]
-  workflow_dispatch:
+   workflow_dispatch:
     
 jobs:
   build:
